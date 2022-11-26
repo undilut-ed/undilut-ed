@@ -6,6 +6,6 @@
 - 📫 How to reach me
 -    mail: edwinmbonyjr@gmail.com
 -    mail2: edwin.ade@stu.cu.edu.ng
-undilut-ed/undilut-ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- undilut-ed/undilut-ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. -->
